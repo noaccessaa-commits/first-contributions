@@ -9,3 +9,8 @@ Ini adalah proyek latihan pertama saya.
 
 ## Ide Proyek
 Membuat sistem monitoring stok obat.
+
+## Rencana Fitur
+- Peringatan stok obat menipis
+- Peringatan obat mendekati kedaluwarsa
+- Laporan stok setiap apotek
